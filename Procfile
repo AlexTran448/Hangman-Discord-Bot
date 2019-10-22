@@ -1,0 +1,1 @@
+worker: Discord-Hangman.py
