@@ -1,1 +1,1 @@
-worker: Discord-Hangman.py
+worker: python Discord-Hangman.py
