@@ -30,7 +30,7 @@ Before you begin, ensure you have met the following requirements:
 - You have installed [Python 3.8+](https://www.python.org/downloads/).
 - You have a Discord account and administrative privileges on a server.
 - You have created a Discord bot account and obtained its token. If you haven't done this yet, follow [this guide](https://discordpy.readthedocs.io/en/stable/discord.html).
-
+- Replace key in code with your Discord bot account (Key in repository is inactive)
 ###
 
 To use custom dictionary and works modify english2.txt
