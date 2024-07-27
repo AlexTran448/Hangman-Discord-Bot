@@ -10,9 +10,6 @@ Welcome to the Hangman Discord Bot! This bot allows users to play the classic ga
   - [Installation](#installation)
   - [Configuration](#configuration)
 - [Usage](#usage)
-- [Commands](#commands)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -33,4 +30,9 @@ Before you begin, ensure you have met the following requirements:
 - Replace key in code with your Discord bot account (Key in repository is inactive)
 ###
 
+## Configuration
 To use custom dictionary and works modify english2.txt
+
+
+## Usage
+Type !hangman in discord channel with the bot to start a game
